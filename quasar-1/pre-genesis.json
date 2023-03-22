@@ -1255,6 +1255,69 @@
             "end_time": "1742673600"
           },
           "start_time": "1711137600"
+        },
+        {
+          "@type": "/cosmos.vesting.v1beta1.ContinuousVestingAccount",
+          "base_vesting_account": {
+            "base_account": {
+              "address": "quasar1zf9vldjmzkgr3xdm7g8knjvxwteslgk4ktqxee",
+              "pub_key": null,
+              "account_number": "0",
+              "sequence": "0"
+            },
+            "original_vesting": [
+              {
+                "denom": "uqsr",
+                "amount": "714285710000"
+              }
+            ],
+            "delegated_free": [],
+            "delegated_vesting": [],
+            "end_time": "1742673600"
+          },
+          "start_time": "1711137600"
+        },
+        {
+          "@type": "/cosmos.vesting.v1beta1.ContinuousVestingAccount",
+          "base_vesting_account": {
+            "base_account": {
+              "address": "quasar1f72p5x0wa2l6arur5vnvh7anflpjl7nq0k9qgq",
+              "pub_key": null,
+              "account_number": "0",
+              "sequence": "0"
+            },
+            "original_vesting": [
+              {
+                "denom": "uqsr",
+                "amount": "294117650000"
+              }
+            ],
+            "delegated_free": [],
+            "delegated_vesting": [],
+            "end_time": "1742673600"
+          },
+          "start_time": "1711137600"
+        },
+        {
+          "@type": "/cosmos.vesting.v1beta1.ContinuousVestingAccount",
+          "base_vesting_account": {
+            "base_account": {
+              "address": "quasar1lyh6lpuamrgs8e4hzyunsgx7l77vpc7u628cn4",
+              "pub_key": null,
+              "account_number": "0",
+              "sequence": "0"
+            },
+            "original_vesting": [
+              {
+                "denom": "uqsr",
+                "amount": "235294120000"
+              }
+            ],
+            "delegated_free": [],
+            "delegated_vesting": [],
+            "end_time": "1742673600"
+          },
+          "start_time": "1711137600"
         }
       ]
     },
@@ -1387,6 +1450,15 @@
           ]
         },
         {
+          "address": "quasar1zf9vldjmzkgr3xdm7g8knjvxwteslgk4ktqxee",
+          "coins": [
+            {
+              "denom": "uqsr",
+              "amount": "714385710000"
+            }
+          ]
+        },
+        {
           "address": "quasar1zm77n5ayf94p2eqq96xgqt39q9fnskvhw3ztn0",
           "coins": [
             {
@@ -1455,6 +1527,15 @@
             {
               "denom": "uqsr",
               "amount": "9508007937045"
+            }
+          ]
+        },
+        {
+          "address": "quasar1f72p5x0wa2l6arur5vnvh7anflpjl7nq0k9qgq",
+          "coins": [
+            {
+              "denom": "uqsr",
+              "amount": "294217650000"
             }
           ]
         },
@@ -1792,6 +1873,15 @@
           ]
         },
         {
+          "address": "quasar1lyh6lpuamrgs8e4hzyunsgx7l77vpc7u628cn4",
+          "coins": [
+            {
+              "denom": "uqsr",
+              "amount": "235394120000"
+            }
+          ]
+        },
+        {
           "address": "quasar1lj2hf0f9pzj5h52yug75pk4d4lsuwsp6ujcg87",
           "coins": [
             {
@@ -1813,7 +1903,7 @@
       "supply": [
         {
           "denom": "uqsr",
-          "amount": "234541741270794"
+          "amount": "235785738750794"
         }
       ],
       "denom_metadata": []
@@ -2054,7 +2144,11 @@
         "code_upload_access": {
           "permission": "AnyOfAddresses",
           "address": "",
-          "addresses": ['quasar1tedfdx0ypd9cq709gvlky0yvy7lezk9qr2du0d', 'quasar18du6ukhm7gxv8hrarwj2huhjtncanalc2spndf', 'quasar1efag7ynwnl8c8t96rrsdgweaeckvl53qvyap8p']
+          "addresses": [
+            "quasar1tedfdx0ypd9cq709gvlky0yvy7lezk9qr2du0d",
+            "quasar18du6ukhm7gxv8hrarwj2huhjtncanalc2spndf",
+            "quasar1efag7ynwnl8c8t96rrsdgweaeckvl53qvyap8p"
+          ]
         },
         "instantiate_default_permission": "Everybody"
       },
