@@ -533,7 +533,7 @@
             "original_vesting": [
               {
                 "denom": "uqsr",
-                "amount": "40000000000"
+                "amount": "235294120000"
               }
             ],
             "delegated_free": [],
@@ -848,7 +848,7 @@
             "original_vesting": [
               {
                 "denom": "uqsr",
-                "amount": "2555555555556"
+                "amount": "555555555556"
               }
             ],
             "delegated_free": [],
@@ -953,7 +953,7 @@
             "original_vesting": [
               {
                 "denom": "uqsr",
-                "amount": "111111110000"
+                "amount": "2400000000000"
               }
             ],
             "delegated_free": [],
@@ -1328,7 +1328,7 @@
           "coins": [
             {
               "denom": "uqsr",
-              "amount": "40100000000"
+              "amount": "235394120000"
             }
           ]
         },
@@ -1544,7 +1544,7 @@
           "coins": [
             {
               "denom": "uqsr",
-              "amount": "2555655555556"
+              "amount": "555655555556"
             }
           ]
         },
@@ -1598,7 +1598,7 @@
           "coins": [
             {
               "denom": "uqsr",
-              "amount": "111211110000"
+              "amount": "2400100000000"
             }
           ]
         },
@@ -2052,8 +2052,9 @@
     "wasm": {
       "params": {
         "code_upload_access": {
-          "permission": "Everybody",
-          "address": ""
+          "permission": "AnyOfAddresses",
+          "address": "",
+          "addresses": ['quasar1tedfdx0ypd9cq709gvlky0yvy7lezk9qr2du0d', 'quasar18du6ukhm7gxv8hrarwj2huhjtncanalc2spndf', '']
         },
         "instantiate_default_permission": "Everybody"
       },
