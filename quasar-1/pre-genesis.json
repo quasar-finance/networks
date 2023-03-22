@@ -2054,7 +2054,7 @@
         "code_upload_access": {
           "permission": "AnyOfAddresses",
           "address": "",
-          "addresses": ['quasar1tedfdx0ypd9cq709gvlky0yvy7lezk9qr2du0d', 'quasar18du6ukhm7gxv8hrarwj2huhjtncanalc2spndf', '']
+          "addresses": ['quasar1tedfdx0ypd9cq709gvlky0yvy7lezk9qr2du0d', 'quasar18du6ukhm7gxv8hrarwj2huhjtncanalc2spndf', 'quasar1efag7ynwnl8c8t96rrsdgweaeckvl53qvyap8p']
         },
         "instantiate_default_permission": "Everybody"
       },
