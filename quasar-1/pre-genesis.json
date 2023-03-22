@@ -1318,6 +1318,160 @@
             "end_time": "1742673600"
           },
           "start_time": "1711137600"
+        },
+        {
+          "@type": "/cosmos.vesting.v1beta1.ContinuousVestingAccount",
+          "base_vesting_account": {
+            "base_account": {
+              "address": "quasar1kh5m55k75mrlwezew9pnetnaf3tnkzqf489l2m",
+              "pub_key": null,
+              "account_number": "0",
+              "sequence": "0"
+            },
+            "original_vesting": [
+              {
+                "denom": "uqsr",
+                "amount": "42000000000000"
+              }
+            ],
+            "delegated_free": [],
+            "delegated_vesting": [],
+            "end_time": "1774209600"
+          },
+          "start_time": "1711137600"
+        },
+        {
+          "@type": "/cosmos.vesting.v1beta1.ContinuousVestingAccount",
+          "base_vesting_account": {
+            "base_account": {
+              "address": "quasar1apsdt6unyha52sc35rx3w3xhsr6km6xp9dtjmh",
+              "pub_key": null,
+              "account_number": "0",
+              "sequence": "0"
+            },
+            "original_vesting": [
+              {
+                "denom": "uqsr",
+                "amount": "18000000000000"
+              }
+            ],
+            "delegated_free": [],
+            "delegated_vesting": [],
+            "end_time": "1774209600"
+          },
+          "start_time": "1711137600"
+        },
+        {
+          "@type": "/cosmos.vesting.v1beta1.ContinuousVestingAccount",
+          "base_vesting_account": {
+            "base_account": {
+              "address": "quasar196759r6r9suru85uh3dtrflee6qz22cu24dll2",
+              "pub_key": null,
+              "account_number": "0",
+              "sequence": "0"
+            },
+            "original_vesting": [
+              {
+                "denom": "uqsr",
+                "amount": "35000000000000"
+              }
+            ],
+            "delegated_free": [],
+            "delegated_vesting": [],
+            "end_time": "1774209600"
+          },
+          "start_time": "1711137600"
+        },
+        {
+          "@type": "/cosmos.vesting.v1beta1.ContinuousVestingAccount",
+          "base_vesting_account": {
+            "base_account": {
+              "address": "quasar1f3rwjhd50dwhj44jc84pt38etj2tut9m2u7evr",
+              "pub_key": null,
+              "account_number": "0",
+              "sequence": "0"
+            },
+            "original_vesting": [
+              {
+                "denom": "uqsr",
+                "amount": "50000000000000"
+              }
+            ],
+            "delegated_free": [],
+            "delegated_vesting": [],
+            "end_time": "1769112000"
+          },
+          "start_time": "1705953600"
+        },
+        {
+          "@type": "/cosmos.vesting.v1beta1.ContinuousVestingAccount",
+          "base_vesting_account": {
+            "base_account": {
+              "address": "quasar14ttj59v60d0km4lzhgu3nc2ysqex7z824dfrg0",
+              "pub_key": null,
+              "account_number": "0",
+              "sequence": "0"
+            },
+            "original_vesting": [
+              {
+                "denom": "uqsr",
+                "amount": "30000000000000"
+              }
+            ],
+            "delegated_free": [],
+            "delegated_vesting": [],
+            "end_time": "1737576000"
+          },
+          "start_time": "1705953600"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "quasar1ed6ezqx9t4e9sfm6nfgulq3005umrh6hsqksnp",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "quasar1efag7ynwnl8c8t96rrsdgweaeckvl53qvyap8p",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "quasar1tedfdx0ypd9cq709gvlky0yvy7lezk9qr2du0d",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "quasar18du6ukhm7gxv8hrarwj2huhjtncanalc2spndf",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "quasar1fjr6qj7g2wjju7hlcy4c6azsu46z2ncptnsmek",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "quasar1rq55u5jks93m964d7cldpmn0kgm04pqu40y5uw",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "quasar18q46yttrppx4p0zqhl3pn75nupkr2q2pdpvhvx",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
         }
       ]
     },
@@ -1468,6 +1622,15 @@
           ]
         },
         {
+          "address": "quasar1rq55u5jks93m964d7cldpmn0kgm04pqu40y5uw",
+          "coins": [
+            {
+              "denom": "uqsr",
+              "amount": "500000000"
+            }
+          ]
+        },
+        {
           "address": "quasar1r2u5q6t6w0wssrk6l66n3t2q3dw2uqnyf8ny4p",
           "coins": [
             {
@@ -1482,6 +1645,33 @@
             {
               "denom": "uqsr",
               "amount": "16666766666667"
+            }
+          ]
+        },
+        {
+          "address": "quasar196759r6r9suru85uh3dtrflee6qz22cu24dll2",
+          "coins": [
+            {
+              "denom": "uqsr",
+              "amount": "35000100000000"
+            }
+          ]
+        },
+        {
+          "address": "quasar18q46yttrppx4p0zqhl3pn75nupkr2q2pdpvhvx",
+          "coins": [
+            {
+              "denom": "uqsr",
+              "amount": "500000000"
+            }
+          ]
+        },
+        {
+          "address": "quasar18du6ukhm7gxv8hrarwj2huhjtncanalc2spndf",
+          "coins": [
+            {
+              "denom": "uqsr",
+              "amount": "1000000000"
             }
           ]
         },
@@ -1522,6 +1712,24 @@
           ]
         },
         {
+          "address": "quasar1f3rwjhd50dwhj44jc84pt38etj2tut9m2u7evr",
+          "coins": [
+            {
+              "denom": "uqsr",
+              "amount": "110000100000000"
+            }
+          ]
+        },
+        {
+          "address": "quasar1fjr6qj7g2wjju7hlcy4c6azsu46z2ncptnsmek",
+          "coins": [
+            {
+              "denom": "uqsr",
+              "amount": "500000000"
+            }
+          ]
+        },
+        {
           "address": "quasar1fneguz7yzwcf7zs5dhu4hnatnwlpyvznjpaurz",
           "coins": [
             {
@@ -1545,6 +1753,15 @@
             {
               "denom": "uqsr",
               "amount": "587211111111"
+            }
+          ]
+        },
+        {
+          "address": "quasar1tedfdx0ypd9cq709gvlky0yvy7lezk9qr2du0d",
+          "coins": [
+            {
+              "denom": "uqsr",
+              "amount": "1000000000"
             }
           ]
         },
@@ -1693,6 +1910,15 @@
           ]
         },
         {
+          "address": "quasar14ttj59v60d0km4lzhgu3nc2ysqex7z824dfrg0",
+          "coins": [
+            {
+              "denom": "uqsr",
+              "amount": "107987488330000"
+            }
+          ]
+        },
+        {
           "address": "quasar140l6y2gp3gxvay6qtn70re7z2s0gn57zz6fety",
           "coins": [
             {
@@ -1716,6 +1942,15 @@
             {
               "denom": "uqsr",
               "amount": "40100000000"
+            }
+          ]
+        },
+        {
+          "address": "quasar1kh5m55k75mrlwezew9pnetnaf3tnkzqf489l2m",
+          "coins": [
+            {
+              "denom": "uqsr",
+              "amount": "42000100000000"
             }
           ]
         },
@@ -1774,6 +2009,24 @@
           ]
         },
         {
+          "address": "quasar1efag7ynwnl8c8t96rrsdgweaeckvl53qvyap8p",
+          "coins": [
+            {
+              "denom": "uqsr",
+              "amount": "500000000"
+            }
+          ]
+        },
+        {
+          "address": "quasar1ed6ezqx9t4e9sfm6nfgulq3005umrh6hsqksnp",
+          "coins": [
+            {
+              "denom": "uqsr",
+              "amount": "65000000000000"
+            }
+          ]
+        },
+        {
           "address": "quasar1ej2es5fjztqjcd4pwa0zyvaevtjd2y5wd30dfm",
           "coins": [
             {
@@ -1815,6 +2068,15 @@
             {
               "denom": "uqsr",
               "amount": "3111211110000"
+            }
+          ]
+        },
+        {
+          "address": "quasar1apsdt6unyha52sc35rx3w3xhsr6km6xp9dtjmh",
+          "coins": [
+            {
+              "denom": "uqsr",
+              "amount": "18000100000000"
             }
           ]
         },
@@ -1903,7 +2165,7 @@
       "supply": [
         {
           "denom": "uqsr",
-          "amount": "236269921760794"
+          "amount": "614261810090794"
         }
       ],
       "denom_metadata": []
