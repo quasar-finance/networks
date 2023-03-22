@@ -2006,7 +2006,7 @@
         "max_deposit_period": "864000s"
       },
       "voting_params": {
-        "voting_period": "432000s"
+        "voting_period": "259200s"
       },
       "tally_params": {
         "quorum": "0.20000000000000000",
@@ -2106,7 +2106,7 @@
       "params": {
         "signed_blocks_window": "30000",
         "min_signed_per_window": "0.050000000000000000",
-        "downtime_jail_duration": "600s",
+        "downtime_jail_duration": "60s",
         "slash_fraction_double_sign": "0.050000000000000000",
         "slash_fraction_downtime": "0.010000000000000000"
       },
