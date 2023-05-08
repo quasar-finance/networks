@@ -38,7 +38,7 @@
         "send_enabled": [
           {
             "denom": "uqsr",
-            "enabled": false
+            "enabled": true
           }
         ],
         "default_send_enabled": true
