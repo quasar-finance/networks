@@ -1,5 +1,5 @@
 {
-  "genesis_time": "2023-05-08T17:00:00Z",
+  "genesis_time": "2023-05-19T17:00:00Z",
   "chain_id": "quasar-test-1",
   "initial_height": "1",
   "consensus_params": {
@@ -291,9 +291,9 @@
           "permission": "AnyOfAddresses",
           "address": "",
           "addresses": [
-            "quasar1tedfdx0ypd9cq709gvlky0yvy7lezk9qr2du0d",
-            "quasar18du6ukhm7gxv8hrarwj2huhjtncanalc2spndf",
-            "quasar1efag7ynwnl8c8t96rrsdgweaeckvl53qvyap8p"
+            "quasar1fjr6qj7g2wjju7hlcy4c6azsu46z2ncptnsmek",
+            "quasar1p577t98ggzlucph3wwehmtmhqr75fda0964r4h",
+            "quasar1edf8m5q63kuf9k0ey2qahgsvrvjhsup6dguqrd"
           ]
         },
         "instantiate_default_permission": "Everybody"
